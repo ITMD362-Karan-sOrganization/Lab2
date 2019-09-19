@@ -19,7 +19,7 @@ label {
   font-size: 1.5em;
 }
 
-input, 
+input
 textarea {
 
   font: 1.5em helvetica;
@@ -49,12 +49,12 @@ textarea {
   #container {
     width: 600px;
     text-align: center;
-	margin: auto;
+    margin: auto;
   }
   
   #submit {
     width: 25%;
-	display: block;
+    display: block;
     margin: auto;
     font-size: 0.8em;
   }
